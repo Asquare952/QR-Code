@@ -10,7 +10,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 13rem;
+    margin-top: 9rem;
 }
 .qr{
     background: hsl(0, 0%, 100%);
